@@ -1,1 +1,1 @@
-# Inverting-Amplifier-
+# Inverting-Amplifier
