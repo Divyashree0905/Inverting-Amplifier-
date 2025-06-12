@@ -1,1 +1,1 @@
-# Inverting-Amplifier
+# Inverting-Amplifier using LT spice
